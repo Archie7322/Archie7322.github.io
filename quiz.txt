@@ -1,0 +1,63 @@
+1016780@1016780-student-FVFMR8S51WFV ~ % date      
+Mon Sep  9 11:42:19 EDT 2024
+1016780@1016780-student-FVFMR8S51WFV ~ % cd desktop
+1016780@1016780-student-FVFMR8S51WFV desktop % mkdir quiz
+1016780@1016780-student-FVFMR8S51WFV desktop % cd quiz
+1016780@1016780-student-FVFMR8S51WFV quiz % echo > move_me.txt
+1016780@1016780-student-FVFMR8S51WFV quiz % echo > copy_me.txt
+1016780@1016780-student-FVFMR8S51WFV quiz % mkdir destination 
+1016780@1016780-student-FVFMR8S51WFV quiz % mv move_me destination
+mv: rename move_me to destination/move_me: No such file or directory
+1016780@1016780-student-FVFMR8S51WFV quiz % mv mov_me.txt destination
+mv: rename mov_me.txt to destination/mov_me.txt: No such file or directory
+1016780@1016780-student-FVFMR8S51WFV quiz % mv move_me.txt destination
+1016780@1016780-student-FVFMR8S51WFV quiz % cp copy_me.txt destination
+1016780@1016780-student-FVFMR8S51WFV quiz % cd destination
+1016780@1016780-student-FVFMR8S51WFV destination % ls
+copy_me.txt	move_me.txt
+1016780@1016780-student-FVFMR8S51WFV destination % rm copy_me
+rm: copy_me: No such file or directory
+1016780@1016780-student-FVFMR8S51WFV destination % rm copy_me.txt
+1016780@1016780-student-FVFMR8S51WFV destination % date
+Mon Sep  9 11:46:30 EDT 2024
+1016780@1016780-student-FVFMR8S51WFV destination % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
