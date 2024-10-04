@@ -7,5 +7,5 @@ I'll be writing about:
 
 # Here's my journal entries:
 
-- [My journey learning the terminal](terminal.md)
+- [Test] (entries/test.md)
 
