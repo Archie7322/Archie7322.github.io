@@ -7,5 +7,5 @@ I'll be writing about:
 
 # Here's my journal entries:
 
-[Test] (entries/test.md)
+- [Test](entries/test.md)
 
