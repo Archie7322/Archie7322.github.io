@@ -1,5 +1,7 @@
 Welcome to my Journal
 
+Hello
+
 I'll be writing about:
 
 * my coding journey
@@ -8,4 +10,5 @@ I'll be writing about:
 # Here's my journal entries:
 
 - [Test](entries/test.md)
+- [Markdown](entries/markdown.md)
 

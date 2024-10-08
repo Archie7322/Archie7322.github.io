@@ -18,6 +18,4 @@ paragraph thingy
 ## Link
 
 [this is example.com](www.example.com)
-![this is an image](https://media.istockphoto.com/id/1154370446/photo/funny-raccoon-in-green-sunglasses-showing-a-rock-gesture-isolated-on-white-background.webp?s=2048x2048&w=is&k=20&c=pEtqycJb7GbnbvKnHuyqAi2eScR9A3LZYmMaWivi1h8=)
-
-
+![this is an image](https://media.istockphoto.com/id/1154370446/photo/funny-raccoon-in-green-sunglasses-showing-a-rock-gesture-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=kkZiaB9Q-GbY5gjf6WWURzEpLzNrpjZp_tn09GB21bI=)
