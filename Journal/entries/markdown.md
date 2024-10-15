@@ -30,9 +30,5 @@ paragraph thingy
 ## Latex
 
 Did you know that you can find the zeros of any quadratic function using the quadratic equation? $\frac{-b+\sqrt{b^2-4ac}}{2a}$
-<<<<<<< HEAD
 This is the pythagorean theorem: $$a^2+b^2=c^2$$
-
-=======
->>>>>>> refs/remotes/origin/main
 
