@@ -29,5 +29,5 @@ paragraph thingy
 
 ## Latex
 
-Did you know that you can find the zeros of any quadratic function using the quadratic equation? $/frac{-b+/sqrt{b^2-4ac}}{2a}$
+Did you know that you can find the zeros of any quadratic function using the quadratic equation? $\frac{-b+\sqrt{b^2-4ac}}{2a}$
 
