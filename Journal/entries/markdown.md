@@ -22,12 +22,14 @@ paragraph thingy
 
 ## Tables
 |Name     | Facts         |
-|---------|---------------|
+|:-------:|:-------------:|
 |Garfeild | Likes Lasagna |
 |Tom      | Chases Jerry  |
 |Meowth   | That's right! |
 
 ## Latex
 
-Did you know that you can find the zeros of any quadratic function using the quadratic equation? $/frac{-b+/sqrt{b^2-4ac}}{2a}$
+Did you know that you can find the zeros of any quadratic function using the quadratic equation? $\frac{-b+\sqrt{b^2-4ac}}{2a}$
+This is the pythagorean theorem: $$a^2+b^2=c^2$$
+
 
